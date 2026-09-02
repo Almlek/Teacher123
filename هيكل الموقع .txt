@@ -1,0 +1,24 @@
+project/
+├── index.html
+├── manifest.json
+├── styles.css
+├── core.js
+├── assistant.js
+├── electroexam.js
+├── evaluation.js
+├── homework.js
+├── library-extract.js
+├── onboarding.js
+├── semester-plan.js
+├── html2canvas.min.js
+├── html2pdf.bundle.min.js
+├── mermaid.min.js
+├── jszip.min.js
+├── pptxgen.min.js
+├── icons/
+│   └── icon-192.png
+└── fonts/
+    ├── Cairo-ExtraBold.woff
+    ├── Cairo-Bold.woff
+    ├── Tajawal-Bold.woff
+    └── Amiri-Bold.woff
